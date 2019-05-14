@@ -32,7 +32,7 @@ The second test will perform the original MTCNN with no stride at all. This will
 Upload another image name test1.jpg to replace the first image.
 rerun the tests.
 
-
+I have included an example of how the submission should look like. Your submission should have 4 images in total.
 ## Built With
 
 * [TesnsorFlow](https://www.tensorflow.org) - Machine Learning Library
